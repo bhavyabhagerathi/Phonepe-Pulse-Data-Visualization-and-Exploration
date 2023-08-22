@@ -6,6 +6,8 @@
 
 * We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
 
+![Intro GUI](https://github.com/bhavyabhagerathi/Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/Intro%20GUI.png)
+
 ## Developer Guide 
 
 ### 1. Tools install
